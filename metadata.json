@@ -1,0 +1,6 @@
+{
+  "name": "Bé Vui Học An Toàn Giao Thông 3D",
+  "description": "Trò chơi 3D hoạt hình tương tác vui nhộn ôn tập kiến thức An toàn Giao thông dành cho học sinh tiểu học với 19 câu hỏi trắc nghiệm, biển báo và tình huống thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
